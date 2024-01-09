@@ -1,0 +1,27 @@
+POST http://localhost:3333/books
+Content-Type: application/json
+
+{
+    "title": "How to disappear into Strings",
+    "description": "A brief history of how to disappear",
+    "pages": 192
+}
+
+###
+
+GET http://localhost:3333/books
+
+###
+
+PUT http://localhost:3333/books/fd17f430-ee1d-4f88-b793-9f4343cdc8fb
+Content-Type: application/json
+
+{
+    "title": "How to disappear completely",
+    "description": "just disappear",
+    "pages": 192
+}
+
+###
+
+DELETE http://localhost:3333/books/fd17f430-ee1d-4f88-b793-9f4343cdc8fb

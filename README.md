@@ -1,4 +1,4 @@
-# API Rest - Books
+# Rest API - Books
 
 The purpose of the API, is to demonstrate the knowledge of using modern technologies and applying basic back-end concepts.
 

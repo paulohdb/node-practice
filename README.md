@@ -1,23 +1,11 @@
-# Node API using Postgres
-A repository of practice of Node.Js and technologies
+# API Rest - Books
 
-## What was used?
-In this project I used:
+The purpose of the API, is to demonstrate the knowledge of using modern technologies and applying basic back-end concepts.
 
-- Node.Js
+It's a simple API based on CRUD method, applying concepts of route parameters and query parameters. The API is able to create books with title, description and pages, is able to search, to update and to delete.
+
+## This API Rest are using technologies like:
+- Node.JS
 - Fastify
-- Neon (Database)
-- PostgresJS
-
-## Which topics were covered?
-Topics like: 
-
-- API Rest
-- CRUD
-- Routes
-- Request Body
-- Route parameters
-- Query Parameters
-- In memory Database
-- Database
-
+- Neon (Serverless Postgres) 
+- PostgresJS.
